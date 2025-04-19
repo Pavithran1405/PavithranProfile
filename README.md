@@ -1,3 +1,7 @@
+
+<img src="Bcu4n1gPGYombBRNr5H4Wq" alt="Pavithran K" class="profile-pic" />
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
